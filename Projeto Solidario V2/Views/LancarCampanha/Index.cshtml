@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<link rel="stylesheet" href="~/Content/Tabela.css" />
+
+<h2>Campanhas</h2>
+
+<p>
+    @Html.ActionLink("Novo Registro", "Create", "LancarCampanha", null, new { @class = "btn btn-success" })
+</p>
+<table class="table table-hover">
+    <tr>
+        <th>Nome da Campanha</th>
+        <th>Data Inicial</th>
+        <th>Data Final</th>
+        <th>Total de Participantes</th>
+    </tr>
+    @if (ViewBag.Campanhas != null) {
+        foreach (var campanha in ViewBag.Campanhas)
+        {
+        <tr>
+            <td> @campanha.Nome </td>
+            <td> @campanha.DataInicial.ToString("dd/MM/yyyy") </td>
+            <td> @campanha.DataFinal.ToString("dd/MM/yyyy") </td>
+            <td> <p class="alert-info total">0</p> </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = campanha.id }) |
+                @Html.ActionLink("Participantes", "VisualizaParticipante", "LancarCampanha")
+
+            </td>
+        </tr>
+        }
+    }
+    else
+    {
+        <td> Sem Registros</td>
+    }
+
+
+</table>
+

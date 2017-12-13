@@ -1,0 +1,85 @@
+﻿
+@{
+    ViewBag.Title = "Colaborar";
+}
+
+<link rel="stylesheet" href="~/Content/Tabela.css" />
+
+
+<h2>Colaborar</h2>
+
+
+
+
+    <div class="form-horizontal">
+        <h4>Inserindo Colaboração</h4>
+        <hr />
+
+        <form action="/ParticiparCampanha/Adicionar/@ViewBag.Campanhaid" method="post">
+            <div class="form-group">
+                <div class="col-md-10">
+                    <input name="doacao.ParticipaCampanhaid" id="doacao.ParticipaCampanhaid" class="form-control" value="@ViewBag.ParticipaCampanhaId" style="display:none;" />
+                </div>
+                <label class="control-label col-md-2">Data</label>
+                <div class="col-md-10">
+                    <input class="form-control" type="date" name="doacao.Data" value="@DateTime.Now.ToString("yyyy-MM-dd")" />
+                </div>
+
+                <label class="control-label col-md-2">Item</label>
+                <div class="col-md-10">
+                    <select name="doacao.Recursoid" class="form-control">
+                        @foreach (var recurso in ViewBag.Recursos)
+                        {
+                            <option value="@recurso.id">@recurso.Nome</option>
+                        }
+                    </select>
+                </div>
+
+                <label class="control-label col-md-2">Quantidade</label>
+                <div class="col-md-10">
+                    <input class="form-control" type="number" name="doacao.Quantidade" value="1"/>
+                </div>
+            </div>
+
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Inserir Item" class="btn btn-default" />
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <h4>Itens Lançados</h4>
+    <table class="table table-hover">
+        <tr>
+            <th>Data</th>
+            <th>Item</th>
+            <th>Quantidade</th>
+        </tr>
+
+        @if (ViewBag.Doacaos != null) {
+            foreach (var doacao in ViewBag.Doacaos) {
+                <tr>
+                    <td>@doacao.Data.ToString("dd/MM/yyyy")</td>
+                    <td>@doacao.Recurso.Nome</td>
+                    <td>@doacao.Quantidade</td>
+            
+                    <td>
+                        @Html.ActionLink("Excluir", "Deletar", new { id = doacao.id, Campanhaid = ViewBag.Campanhaid})
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <td>Sem Registro</td>
+        }
+
+    </table>
+
+
+<div>
+    @Html.ActionLink("Voltar", "Index")
+</div>
+

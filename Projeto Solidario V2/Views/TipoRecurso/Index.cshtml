@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Projeto_Solidario_V2.Models.TipoRecurso>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<link rel="stylesheet" href="~/Content/Tabela.css" />
+
+<h2>Tipo de Recurso</h2>
+
+<p>
+    @Html.ActionLink("Novo Registro", "Create", "TipoRecurso", null, new { @class = "btn btn-success" })
+</p>
+<table class="table table-hover">
+    <tr>
+        <th>
+            Descrição
+        </th>
+        <th>
+            Tipo
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tipo)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.id }) |
+            @Html.ActionLink("Detalhes", "Details", new { id=item.id }) |
+            @Html.ActionLink("Deletar", "Delete", new { id=item.id })
+        </td>
+    </tr>
+}
+
+</table>

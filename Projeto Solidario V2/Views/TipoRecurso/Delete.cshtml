@@ -1,0 +1,43 @@
+﻿@model Projeto_Solidario_V2.Models.TipoRecurso
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+
+<link rel="stylesheet" href="~/Content/Tabela.css" />
+
+<h2>Deletar</h2>
+
+<h3 class="alert-danger">Você deseja Realmente Excluir o Registro?</h3>
+<div>
+    <h4>Tipo de Recurso</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tipo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tipo)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Deletar" class="btn btn-danger" /> |
+            @Html.ActionLink("Voltar", "Index")
+        </div>
+    }
+</div>

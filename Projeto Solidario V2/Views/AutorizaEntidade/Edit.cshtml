@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "Edit";
+}
+
+
+<link rel="stylesheet" href="~/Content/Tabela.css" />
+
+
+<h2>Editar</h2>
+
+
+
+    <div class="form-horizontal">
+        <h4>@ViewBag.Entidade.Nome</h4>
+        <hr />
+        
+        
+        <form action="/AutorizaEntidade/EditSalvar/@ViewBag.Entidade.id" method="get">
+            <div class="form-group">
+                <label class="control-label col-md-2">Status</label>
+                <div class="col-md-10">
+                    <select class="form-control" name="entidade.Status">
+                        <option value="1" selected="@ViewBag.Entidade.Status.Equals(1)"> Operando</option>
+                        <option value="0" selected="@ViewBag.Entidade.Status.Equals(0)"> Aguardando Liberação</option>
+                        <option value="2" selected="@ViewBag.Entidade.Status.Equals(2)"> Parada</option>
+                        <option value="3" selected="@ViewBag.Entidade.Status.Equals(3)"> Fechada</option>
+                        <option value="4" selected="@ViewBag.Entidade.Status.Equals(4)"> Recusada</option>
+                    </select>
+             
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Salvar" class="btn btn-default" />
+                </div>
+            </div>
+        </form>
+    </div>
+
+
+<div>
+    @Html.ActionLink("Voltar", "Index")
+</div>
+

@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewBag.Title = "Afinidade";
+}
+
+<link rel="stylesheet" href="~/Content/Tabela.css" />
+
+
+<h2>Vinculo de Afinidades</h2>
+
+    <div class="form-horizontal">
+        <h4>Afinidades</h4>
+            <form action="/VinculoAfinidade/Inserir" method="post">
+                <select class="form-control" name="afinidade.id">
+                    @foreach(var afinidade in ViewBag.Afinidades){
+                        <option value="@afinidade.id">@afinidade.Descricao</option>
+                    }
+                </select>
+                <input type="submit" value="Inserir" class="btn btn-outline-success" style="margin-top:10px" />
+            </form>
+            <table class="table table-hover" style="margin-left:30px; margin-top:20px;">
+                <tr>
+                    <th>Nome</th>
+                </tr>
+
+                @if (ViewBag.VinculoAfinidades != null)
+                {
+                    foreach (var vinculoafinidade in ViewBag.VinculoAfinidades)
+                    {
+                    <tr>
+                        <td>@vinculoafinidade.Afinidade.Descricao</td>
+                        <td>
+                            @Html.ActionLink("Excluir", "Excluir", new { id = vinculoafinidade.id })
+
+                        </td>
+                    </tr>
+                    }
+                }
+                else
+                {
+                    <td> Sem Registros</td>
+                }
+            </table>
+
+
+
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <a href="/VinculoAfinidade/Salvar" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">Salvar</a>
+            </div>
+        </div>
+
+<div>
+    @Html.ActionLink("Voltar", "Index")
+</div>
+

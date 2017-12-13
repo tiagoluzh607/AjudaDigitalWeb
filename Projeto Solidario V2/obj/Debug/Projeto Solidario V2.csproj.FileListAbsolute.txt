@@ -1,0 +1,357 @@
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\csc.exe
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\vbc.exe
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\VBCSCompiler.exe
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Projeto Solidario V2.dll.config
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Projeto Solidario V2.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Projeto Solidario V2.pdb
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Antlr3.Runtime.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\EntityFramework.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\EntityFramework.SqlServer.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Newtonsoft.Json.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Owin.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Helpers.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Mvc.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Optimization.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Razor.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.WebPages.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.WebPages.Razor.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\WebGrease.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Helpers.xml
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Mvc.xml
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Optimization.xml
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Razor.xml
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.WebPages.xml
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.WebPages.Razor.xml
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Antlr3.Runtime.pdb
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Newtonsoft.Json.xml
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\EntityFramework.xml
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\EntityFramework.SqlServer.xml
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.xml
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.xml
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\obj\Debug\Projeto Solidario V2.dll
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\obj\Debug\Projeto Solidario V2.pdb
+C:\Users\tiagoluz\Documents\Visual Studio 2015\Projects\Projeto Solidario V2\Projeto Solidario V2\obj\Debug\Projeto Solidario V2.csprojResolveAssemblyReference.cache
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\csc.exe
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\System.Collections.Immutable.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\vbc.exe
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\VBCSCompiler.exe
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\VBCSCompiler.exe.config
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Projeto Solidario V2.dll.config
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Projeto Solidario V2.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Projeto Solidario V2.pdb
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Antlr3.Runtime.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\EntityFramework.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\EntityFramework.SqlServer.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Google.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Web.Infrastructure.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Newtonsoft.Json.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Owin.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Helpers.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Mvc.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Optimization.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Razor.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.WebPages.Deployment.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.WebPages.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.WebPages.Razor.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\WebGrease.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Helpers.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Mvc.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Optimization.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Razor.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.WebPages.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.WebPages.Deployment.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.WebPages.Razor.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Antlr3.Runtime.pdb
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Newtonsoft.Json.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\EntityFramework.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\EntityFramework.SqlServer.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Google.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\obj\Debug\Projeto Solidario V2.csprojResolveAssemblyReference.cache
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\obj\Debug\Projeto Solidario V2.csproj.CoreCompileInputs.cache
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\obj\Debug\Projeto Solidario V2.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V2\Projeto Solidario V2\obj\Debug\Projeto Solidario V2.pdb
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\csc.exe
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\vbc.exe
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\VBCSCompiler.exe
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Projeto Solidario V2.dll.config
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Projeto Solidario V2.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Projeto Solidario V2.pdb
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Antlr3.Runtime.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\EntityFramework.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\EntityFramework.SqlServer.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Newtonsoft.Json.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Owin.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Helpers.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Mvc.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Optimization.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Razor.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.WebPages.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.WebPages.Razor.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\WebGrease.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Helpers.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Mvc.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Optimization.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.Razor.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.WebPages.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\System.Web.WebPages.Razor.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Antlr3.Runtime.pdb
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Newtonsoft.Json.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\EntityFramework.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\EntityFramework.SqlServer.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\obj\Debug\Projeto Solidario V2.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\obj\Debug\Projeto Solidario V2.pdb
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\obj\Debug\Projeto Solidario V2.csprojResolveAssemblyReference.cache
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\obj\Debug\Projeto_Solidario_V2.Migrations.InitialCreate.resources
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\obj\Debug\Projeto Solidario V2.csproj.GenerateResource.Cache
+C:\Users\tiagoluz\Downloads\Projeto Solidario V4\Projeto Solidario V2\Projeto Solidario V2\obj\Debug\Projeto_Solidario_V2.Migrations.CriaBancoInicial2.resources
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\csc.exe
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\System.Collections.Immutable.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\vbc.exe
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\VBCSCompiler.exe
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\VBCSCompiler.exe.config
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Projeto Solidario V2.dll.config
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Projeto Solidario V2.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Projeto Solidario V2.pdb
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Antlr3.Runtime.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\EntityFramework.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\EntityFramework.SqlServer.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.Google.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Web.Infrastructure.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Newtonsoft.Json.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Owin.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.Helpers.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.Mvc.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.Optimization.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.Razor.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.WebPages.Deployment.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.WebPages.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.WebPages.Razor.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\WebGrease.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\EntityFramework.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\EntityFramework.SqlServer.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.Helpers.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.Mvc.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.Optimization.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.Razor.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.WebPages.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.WebPages.Deployment.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.WebPages.Razor.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Antlr3.Runtime.pdb
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Newtonsoft.Json.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.Google.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\obj\Debug\Projeto Solidario V2.csprojResolveAssemblyReference.cache
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\obj\Debug\Projeto Solidario V2.csproj.CoreCompileInputs.cache
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\obj\Debug\Projeto Solidario V2.dll
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\obj\Debug\Projeto Solidario V2.pdb
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\obj\Debug\Projeto_Solidario_V2.Migrations.CriaBancoV2.resources
+D:\Analise e Desenvolvimento de Sistemas\FTec\20172 - Projeto de Sistemas para Web\Trabalho Final\Projeto Solidario V5\Projeto Solidario V2\obj\Debug\Projeto Solidario V2.csproj.GenerateResource.Cache
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\obj\Debug\Projeto_Solidario_V2.Migrations.CriaBancoV2.resources
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\obj\Debug\Projeto_Solidario_V2.Migrations.DadosIniciais.resources
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\obj\Debug\Projeto Solidario V2.csproj.GenerateResource.Cache
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\csc.exe
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\vbc.exe
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\VBCSCompiler.exe
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Projeto Solidario V2.dll.config
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Projeto Solidario V2.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Projeto Solidario V2.pdb
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Antlr3.Runtime.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\EntityFramework.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\EntityFramework.SqlServer.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Newtonsoft.Json.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Owin.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.Helpers.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.Mvc.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.Optimization.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.Razor.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.WebPages.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.WebPages.Razor.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\WebGrease.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\EntityFramework.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\EntityFramework.SqlServer.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.Helpers.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.Mvc.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.Optimization.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.Razor.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.WebPages.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\System.Web.WebPages.Razor.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Antlr3.Runtime.pdb
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Newtonsoft.Json.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\obj\Debug\Projeto Solidario V2.dll
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\obj\Debug\Projeto Solidario V2.pdb
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\obj\Debug\Projeto Solidario V2.csprojResolveAssemblyReference.cache
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\obj\Debug\Projeto_Solidario_V2.Migrations.EntidadeStatusParaInt.resources
+C:\Users\tiagoluz\Downloads\Projeto Solidario V6\Projeto Solidario V5\Projeto Solidario V2\obj\Debug\Projeto_Solidario_V2.Migrations.VinculoAfinidadeeParticipaCampanhaAceitandoNull.resources

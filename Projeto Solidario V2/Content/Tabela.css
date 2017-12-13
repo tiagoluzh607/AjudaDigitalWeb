@@ -1,0 +1,26 @@
+﻿h2 {
+    margin-bottom:50px;
+}
+
+dl{
+    padding:10px;
+}
+
+.status{
+    width:25ch; 
+    text-align:center; 
+    border-radius:10px
+}
+
+.total{
+    width:7ch;
+    text-align:center
+}
+
+.botaoVerifica {
+margin-top: 10px;
+}
+
+.formDados {
+    margin-bottom: 10px;
+} 

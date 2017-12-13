@@ -1,0 +1,31 @@
+﻿@functions{
+
+    //Retorna Classe para Entidade
+    public static String Entidade(int Status)
+    {
+        if (Status == 0)
+        {
+            return "alert-danger";
+        }
+        else if (Status == 1)
+        {
+            return "alert-success";
+        }
+        else if (Status == 2)
+        {
+            return "alert-warning";
+        }
+        else if (Status == 3)
+        {        
+            return "alert-info";
+        }
+        else if (Status == 4)
+        {
+            return "alert-secondary";
+        }
+
+        return "";
+
+    }
+
+}

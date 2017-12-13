@@ -1,0 +1,65 @@
+﻿
+@{
+        ViewBag.Title = "Index";
+        String classe = "alert-success";
+
+}
+
+<link rel="stylesheet" href="~/Content/Tabela.css" />
+
+<h2>Entidades Aguardando Liberação</h2>
+
+
+<table class="table table-hover">
+    <tr>
+        <th>Entidade</th>
+        <th>Status</th>
+    </tr>
+    @if (ViewBag.EntidadesAguardandoLiberacao != null)
+    {
+        foreach (var entidade in ViewBag.EntidadesAguardandoLiberacao)
+        {
+            <tr>
+
+                <td> @entidade.Nome</td>
+                <td> <p class="@Classe.Entidade(entidade.Status) status" id="status"> @entidade.getStatusDescricao()</p> </td>
+                <td>
+                    @Html.ActionLink("Editar", "Edit", new { id = entidade.id })
+                </td>
+            </tr>
+        }
+    }
+    else
+    {
+        <td> Sem Registros</td>
+    }
+
+
+
+</table>
+
+<h2>Entidades</h2>
+
+
+<table class="table table-hover">
+    <tr>
+        <th>Entidade</th>
+        <th>Status</th>
+    </tr>
+    @if (ViewBag.EntidadesNaoAguardandoLiberacao != null) {
+        foreach (var entidade in ViewBag.EntidadesNaoAguardandoLiberacao) {
+        <tr>
+            <td> @entidade.Nome</td>
+            <td> <p class="@Classe.Entidade(entidade.Status) status" id="status"> @entidade.getStatusDescricao()</p> </td>
+            <td>
+               @Html.ActionLink("Editar", "Edit", new { id = entidade.id })
+            </td>
+        </tr>
+        }
+    }
+    else
+    {
+        <td> Sem Registros</td>
+    }
+
+</table>

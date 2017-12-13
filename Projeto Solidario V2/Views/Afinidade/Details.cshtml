@@ -1,0 +1,30 @@
+﻿@model Projeto_Solidario_V2.Models.Afinidade
+
+@{
+    ViewBag.Title = "Details";
+}
+
+
+<link rel="stylesheet" href="~/Content/Tabela.css" />
+
+
+<h2>Detalhes</h2>
+
+<div>
+    <h4>Afinidade</h4>
+    <hr />
+    <dl class="dl-horizontal alert-info">
+        <dt>
+            Descrição
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Voltar", "Index")
+</p>

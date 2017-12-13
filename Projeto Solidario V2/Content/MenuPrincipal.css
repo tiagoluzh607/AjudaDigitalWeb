@@ -1,0 +1,19 @@
+﻿body {
+    background-image: url("FundoSite.jpg");
+}
+
+.nav-item dropdown{
+    margin-left:100px;
+
+}
+
+li{
+     margin-left:20px;
+}
+
+.body-content {
+    padding-top:5ch;
+    padding-bottom:5ch;
+}
+
+

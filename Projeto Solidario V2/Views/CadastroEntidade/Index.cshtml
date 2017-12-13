@@ -1,0 +1,143 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<link rel="stylesheet" href="~/Content/Tabela.css" />
+
+    <h2>Entidade</h2>
+
+    <!--BEGIN #signup-form -->
+    <div id="signup-form" class="form-horizontal">
+        <!--BEGIN #subscribe-inner -->
+        <div id="signup-inner">
+            <div class="clearfix" id="header">
+                <img id="signup-icon" src="./images/signup.png" alt="" />
+    
+            </div>
+            <div class="form-group">
+                <form id="send" action="/CadastroEntidade/Cadastrar" method="post" class="form-horizontal">
+                    <p>
+                        <label for="identidade"></label>
+                        <input id="identidade" class="form-control" type="text" name="entidade.id" value="@ViewBag.Entidade.id" style="display:none;" />
+                    </p>
+                    <p>
+                        <label for="nome" class="control-label col-md-2">Nome Completo *</label>
+                        <input id="nome" class="form-control" type="text" name="entidade.Nome" value="@ViewBag.Entidade.Nome" />
+                    </p>
+
+                    <p>
+                        <label for="cnpj/cpf" class="control-label col-md-2">CNPJ/CPF *</label>
+                        <input id="cnpj/cpf" class="form-control" type="text" name="entidade.CnpjCpf" value="@ViewBag.Entidade.CnpjCpf" />
+                    </p>
+
+                    <p>
+                        <label for="logradouro" class="control-label col-md-2">Logradouro *</label>
+                        <input id="logradouro" class="form-control" type="text" name="entidade.Logradouro" value="@ViewBag.Entidade.Logradouro" />
+                    </p>
+
+                    <p>
+                        <label for="numero" class="control-label col-md-2">Número *</label>
+                        <input id="numero" class="form-control" type="text" name="entidade.Numero" value="@ViewBag.Entidade.Numero" />
+                    </p>
+
+                    <p>
+                        <label for="complemento" class="control-label col-md-2">Complemento</label>
+                        <input id="complemento" class="form-control" type="text" name="entidade.Complemento" value="@ViewBag.Entidade.Complemento" />
+                    </p>
+
+                    <p>
+                        <label for="bairro" class="control-label col-md-2">Bairro *</label>
+                        <input id="bairro" class="form-control" type="text" name="entidade.Bairro" value="@ViewBag.Entidade.Bairro" />
+                    </p>
+
+                    <p>
+                        <label for="tipoentidade" class="control-label col-md-2">Tipo de Entidade *</label>
+                        <select name="entidade.TipoEntidade" value="@ViewBag.Entidade.TipoEntidade" class="control-label col-md-2">
+                            <option></option>
+                            <option>MEIO</option>
+                            <option>FIM</option>
+                        </select>
+                    </p>
+
+                    <p>
+                        <label for="estado" class="control-label col-md-2">Estado *</label>
+                        <select name="entidade.Estado">
+                            <option></option>
+                            <option>AC</option>
+                            <option>AL</option>
+                            <option>AM</option>
+                            <option>AP</option>
+                            <option>BA</option>
+                            <option>CE</option>
+                            <option>DF</option>
+                            <option>ES</option>
+                            <option>EX</option>
+                            <option>GO</option>
+                            <option>MA</option>
+                            <option>MG</option>
+                            <option>MS</option>
+                            <option>MT</option>
+                            <option>PA</option>
+                            <option>PB</option>
+                            <option>PE</option>
+                            <option>PI</option>
+                            <option>PR</option>
+                            <option>RJ</option>
+                            <option>RN</option>
+                            <option>RO</option>
+                            <option>RR</option>
+                            <option>RS</option>
+                            <option>SC</option>
+                            <option>SE</option>
+                            <option>SP</option>
+                            <option>TO</option>
+                        </select>
+                        </p>
+
+                        <p>
+                        <label for="cidade" class="control-label col-md-2">Cidade *</label>
+                        <select name="entidade.Cidadeid" class="control-label col-md-2">
+                            <option></option>
+                            @foreach (var cidade in ViewBag.Cidades)
+                            {
+                                <option value="@cidade.id" selected="@cidade.id.Equals(ViewBag.Entidade.Cidadeid)">@cidade.Nome</option>
+                            }
+                        </select>
+                        </p>
+
+                        <p>
+                            <label for="cep" class="control-label col-md-2">CEP *</label>
+                            <input id="cep" class="form-control" type="text" name="entidade.Cep" value="@ViewBag.Entidade.Cep" />
+                        </p>
+
+                        <p>
+                            <label for="fone" class="control-label col-md-2">Fone *</label>
+                            <input id="fone" class="form-control" type="text" name="entidade.Telefone" value="@ViewBag.Entidade.Telefone" />
+                        </p>
+                        <p>
+                            <label for="idlogin" class="control-label col-md-2"></label>
+                            <input id="idlogin" class="form-control" type="text" name="login.id" value="@ViewBag.Entidade.Login.id" style="display:none;" />
+                        </p>
+
+                        <p>
+                            <label for="email" class="control-label col-md-2">E-mail *</label>
+                            <input id="email" class="form-control" type="text" name="login.Email" value="@ViewBag.Entidade.Login.Email" />
+                        </p>
+
+                        <p>
+                            <label for="senha" class="control-label col-md-2">Senha *</label>
+                            <input id="senha" class="form-control" type="password" name="login.Senha" value="@ViewBag.Entidade.Login.Senha" />
+                        </p>
+
+                        <p>
+                            <input type="submit" class="btn btn-success" value="Cadastrar">
+                        </p>
+                    </form>
+                </div>
+                <div id="required">	<p>* Campos Obrigatórios<br /></p></div>
+
+            </div>
+
+        <!--END #signup-form -->
+    </div>

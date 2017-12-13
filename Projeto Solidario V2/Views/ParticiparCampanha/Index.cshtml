@@ -1,0 +1,71 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<link rel="stylesheet" href="~/Content/Tabela.css" />
+
+<h2>Campanhas que Participo</h2>
+
+
+<table class="table table-hover">
+    <tr>
+        <th>Nome da Campanha</th>
+        <th>Data de Término</th>
+        <th>Status</th>
+    </tr>
+    @if (ViewBag.CampanhasParticipantes != null) {
+        foreach (var campanha in ViewBag.CampanhasParticipantes) {
+            <tr>
+                <td>@campanha.Nome</td>
+                <td>@campanha.DataFinal.ToString("dd/MM/yyyy")</td>
+                <td> <p class="alert-success status" id="status">Participante</p> </td>
+                <td>
+                    @Html.ActionLink("Colaborar", "Colaborar", new { id = campanha.id }) |
+                    @Html.ActionLink("Detalhes", "Details", new { id = campanha.id }) |
+                    @Html.ActionLink("Sair da Campanha", "SairCampanha", new { id = campanha.id })
+
+                </td>
+            </tr>
+        }
+    }
+    else
+    {
+        <td>Sem Registros</td>
+    }
+
+</table>
+
+<h2>Campanhas Disponíveis</h2>
+
+
+<table class="table table-hover">
+    <tr>
+        <th>Nome da Campanha</th>
+        <th>Data de Término</th>
+        <th>Status</th>
+    </tr>
+
+    @if (ViewBag.CampanhasDisponiveis != null)
+    {
+        foreach (var campanha in ViewBag.CampanhasDisponiveis) {
+        <tr>
+            <td>@campanha.Nome</td>
+            <td>@campanha.DataFinal.ToString("dd/MM/yyyy")</td>
+            <td> <p class="alert-danger status" id="status">Não Participante</p> </td>
+            <td>|
+                @Html.ActionLink("Detalhes", "Details", new { id = campanha.id }) |
+                @Html.ActionLink("Participar Campanha", "ParticiparCampanha", new { id = campanha.id })
+
+            </td>
+        </tr>
+        }
+    }
+    else
+    {
+        <td>Sem registros</td>
+    }
+
+</table>
+
+

@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Detalhes</h2>
+
+<div>
+    <h4>Campanha</h4>
+    <hr />
+    <dl class="dl-horizontal alert-info" style="padding:10px;">
+        <dt>Nome da Campanha</dt>
+        <dd>@ViewBag.Campanha.Nome</dd>
+
+
+        <dt>Data Inicio</dt>
+        <dd>@ViewBag.Campanha.DataInicial.ToString("dd/MM/yyyy")</dd>
+
+        <dt>Data Fim</dt>
+        <dd>@ViewBag.Campanha.DataFinal.ToString("dd/MM/yyyy")</dd>
+
+        <dt>Informações Gerais</dt>
+        <dd> @ViewBag.Campanha.Descricao</dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Voltar", "Index")
+</p>
+

@@ -1,0 +1,38 @@
+﻿@model Projeto_Solidario_V2.Models.Recurso
+
+@{
+    ViewBag.Title = "Details";
+}
+
+
+<link rel="stylesheet" href="~/Content/Tabela.css" />
+
+
+<h2>Detalhes</h2>
+
+<div>
+    <h4>Recurso</h4>
+    <hr />
+    <dl class="dl-horizontal alert-info">
+        <dt>
+            Descrição
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            Tipo de Recurso
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TipoRecursoid)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Voltar", "Index")
+</p>

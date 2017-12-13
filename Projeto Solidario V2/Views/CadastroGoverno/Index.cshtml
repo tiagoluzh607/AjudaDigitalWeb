@@ -1,0 +1,133 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<link rel="stylesheet" href="~/Content/Tabela.css" />
+
+    <!--BEGIN #signup-form -->
+    <div id="signup-form">
+        <!--BEGIN #subscribe-inner -->
+        <div id="signup-inner">
+            <div class="clearfix" id="header">
+                <img id="signup-icon" src="./images/signup.png" alt="" />
+                <h1>CADASTRE-SE COMO GOVERNO</h1> <br />
+            </div>
+            <form id="send" action="" method="post">
+                <p>
+                    <label for="idgoverno"></label>
+                    <input id="idgoverno" type="text" name="governo.id" value="@ViewBag.Governo.Login.id" style="display:none;" />
+                </p>
+                <p>
+                    <label for="nome">Nome Completo *</label>
+                    <input id="nome" type="text" name="nome" value="" />
+                </p>
+
+                <p>
+                    <label for="cnpj/cpf">CNPJ/CPF *</label>
+                    <input id="cnpj/cpf" type="text" name="cnpj/cpf" value="" />
+                </p>
+
+                <p>
+                    <label for="ie">Inscrição Estadual *</label>
+                    <input id="ie" type="text" name="ie" value="" />
+                </p>
+
+                <p>
+                    <label for="logradouro">Logradouro *</label>
+                    <input id="logradouro" type="text" name="logradouro" value="" />
+                </p>
+
+                <p>
+                    <label for="numero">Número *</label>
+                    <input id="numero" type="text" name="numero" value="" />
+                </p>
+
+                <p>
+                    <label for="complemento">Complemento</label>
+                    <input id="complemento" type="text" name="complemento" value="" />
+                </p>
+
+                <p>
+                    <label for="bairro">Bairro *</label>
+                    <input id="bairro" type="text" name="bairro" value="" />
+                </p>
+
+                <p>
+                    <label for="estado">Estado *</label>
+                    <select name="estado">
+                        <option></option>
+                        <option>AC</option>
+                        <option>AL</option>
+                        <option>AM</option>
+                        <option>AP</option>
+                        <option>BA</option>
+                        <option>CE</option>
+                        <option>DF</option>
+                        <option>ES</option>
+                        <option>EX</option>
+                        <option>GO</option>
+                        <option>MA</option>
+                        <option>MG</option>
+                        <option>MS</option>
+                        <option>MT</option>
+                        <option>PA</option>
+                        <option>PB</option>
+                        <option>PE</option>
+                        <option>PI</option>
+                        <option>PR</option>
+                        <option>RJ</option>
+                        <option>RN</option>
+                        <option>RO</option>
+                        <option>RR</option>
+                        <option>RS</option>
+                        <option>SC</option>
+                        <option>SE</option>
+                        <option>SP</option>
+                        <option>TO</option>
+                    </select>
+                </p>
+
+                <p>
+                    <label for="cidade">Cidade *</label>
+                    <input id="cidade" type="text" name="cidade" value="" />
+                </p>
+
+                <p>
+                    <label for="cep">CEP *</label>
+                    <input id="cep" type="text" name="cep" value="" />
+                </p>
+
+                <p>
+                    <label for="fone">Fone *</label>
+                    <input id="fone" type="text" name="fone" value="" />
+                </p>
+
+                <p>
+                    <label for="contato">Contato</label>
+                    <input id="contato" type="text" name="contato" value="" />
+                </p>
+
+                <p>
+                    <label for="idlogin"></label>
+                    <input id="idlogin" type="text" name="login.id" value="@ViewBag.Entidade.Login.id" style="display:none;" />
+                </p>
+
+                <p>
+                    <label for="email">E-mail *</label>
+                    <input id="email" type="text" name="email" value="" />
+                </p>
+
+                <p>
+                    <a class="btn btn-success" href="/MenuPrincipal/Index">Cadastrar</a>
+                </p>
+
+            </form>
+
+            <div id="required">	<p>* Campos Obrigatórios<br /></p></div>
+
+        </div>
+
+        <!--END #signup-form -->
+    </div>
+

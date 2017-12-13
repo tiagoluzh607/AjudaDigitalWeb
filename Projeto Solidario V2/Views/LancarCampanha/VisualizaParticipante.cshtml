@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewBag.Title = "VisualizaParticipante";
+}
+
+<link rel="stylesheet" href="~/Content/Tabela.css" />
+
+<h2>Participantes</h2>
+
+<table class="table table-hover">
+    <tr>
+        <th>Nome do Participante</th>
+        <th>Contato</th>
+        <th>Email</th>
+    </tr>
+
+
+    <tr>
+        <td> Brian Johnson </td>
+        <td> 51 3021-2121 </td>
+        <td> brian@acdc.com.br </td>
+    </tr>
+
+    <tr>
+        <td> Led Zeppelin </td>
+        <td> 51 3021-2122 </td>
+        <td> zed@immigrantsong.com.br </td>
+    </tr>
+</table>
+
+<div>
+    @Html.ActionLink("Voltar", "Index")
+</div>
+
